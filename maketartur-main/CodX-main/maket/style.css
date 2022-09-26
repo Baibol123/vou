@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300&display=swap');
+*{
+    font-family: 'Outfit';
+    font-style: normal;
+}
+.had{
+    margin-left: 148px;
+    margin-top: 36px;
+    background: #FFFFFF;
+    box-shadow: 0px -4px 19px rgba(0, 0, 0, 0.03);
+    border-radius: 30px;
+    display: flex;
+    font-family: 'Outfit';
+    font-style: normal;
+    
+}
+.tex{
+    list-style: none;
+    display: flex;
+}
+.about{
+    margin-left: 48px;
+    margin-top: 6px;
+    font-size: 15px;
+    line-height: 16px;
+}
+.nft{
+    font-size: 15px;
+    line-height: 16px;
+    margin-left: 48px;
+    margin-top: 6px;
+}
+.cont{
+    font-size: 15px;
+    line-height: 16px;
+    margin-left: 48px;
+    margin-top: 6px;
+}
+.twit{
+    margin-left: 1000px;
+    margin-top: 6px;
+}
+.inst{
+    margin-left: 20px;
+    margin-top: 6px;
+}
+.fc{
+    margin-left: 20px;
+    margin-top: 6px;
+}
+.button1{
+    height: 40px;
+    background: #2F2F2F;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'Outfit';
+    font-style: normal;
+    color: #FFFFFF;
+    margin-left: 53px;
+    margin-top: -6px;
+}
+.classddd{
+    margin-top: 241px;
+    margin-left: 120px;
+}
+.text1{
+    font-size: 13px;
+    line-height: 14px;
+    color: #82CBAC;
+}
+.text2{
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+    color: #2F2F2F;
+}
+.text3{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: #2F2F2F;
+    margin-top: 25px;
+}
+.image11{
+    margin-top: -350px;
+    margin-left: 1000px;
+}
+.image{
+    margin-left: 1200px;
+    margin-top: -220px;
+}
+.manyimg{
+    margin-top: 221px;
+}
+.hey{
+    margin-top: 128px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+}
+.heymini{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    text-align: center;
+    margin-top: 25px;
+}
+/* .buttonss{
+   
+
+} */
+.but11{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 22px;
+    text-align: center;
+    margin-top: 72px;
+    margin-left: 168px;
+    color: #FFFFFF;
+    width: 170px;
+    height: 50px;
+    background: #2F2F2F;
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+    box-sizing: border-box;
+}
+.suni{
+    margin-left: 8px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 22px;
+    text-align: center;
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+    box-sizing: border-box;
+    width: 170px;
+    height: 50px;
+    color: #2F2F2F;
+    background: #FFFFFF;
+}
+.colin{
+    margin-left: 8px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 22px;
+    text-align: center;
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+    box-sizing: border-box;
+    width: 170px;
+    height: 50px;
+    color: #2F2F2F;
+    background: #FFFFFF;
+}
+.info{
+    margin-top: 64px;
+    margin-left: 168px;
+    display: flex;
+    list-style: none;
+}
+.gikital{
+    color: #FF7F96;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+}
+.blandit{
+    margin-left: -90px;
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 36px;
+}
+.suspend{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 110px;
+    margin-left: -310px;
+}
+.info123{
+    margin-top: 146px;
+    margin-left: 120px;
+    display: flex;
+    list-style: none;
+}
+.ourwork{
+    margin-left: 63px;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 36px;
+    text-transform: uppercase;
+    margin-top: 66px;
+}
+.umtex{
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;
+    margin-top: 130px;
+    margin-left: -185px;
+}
+.nulla{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 265px;
+    margin-left: -485px;
+}
+.ocodx{
+    background: #2F2F2F;
+    border-radius: 0px;
+    
+}
